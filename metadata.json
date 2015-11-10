@@ -1,0 +1,14 @@
+{
+  "name": "azcender-hiera_artifactory",
+  "version": "0.1.0",
+  "author": "Bryan Belanger",
+  "summary": "Hiera backend for Artifactory.",
+  "license": "Apache-2.0",
+  "source": "https://github.com/azcender/hiera_artifactory",
+  "project_page": "https://github.com/azcender/hiera_artifactory",
+  "issues_url": "https://github.com/azcender/hiera_artifactory/issues",
+  "dependencies": [
+    {"name":"puppetlabs-stdlib","version_requirement":">= 1.0.0"}
+  ]
+}
+
